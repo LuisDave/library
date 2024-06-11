@@ -33,7 +33,7 @@ This project is a Library Management System built using Spring Boot, allowing us
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/LuisDave/library.git
+   git clone https://github.com/LuisDave/management.git
    cd library
    ```
 
